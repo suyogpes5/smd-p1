@@ -1,27 +1,17 @@
-# smd-p1
+# Stock Market Dashboard
 
-This is a React-based stock market dashboard application that lets users search for stocks, view market movers and news, and explore interactive stock charts.
+## 📌 Description
+This project is a simple stock market dashboard that displays stock-related data.
 
-## Getting Started
+## 🚀 Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-### Install dependencies
+## 💡 Features
+- Displays stock data
+- Simple UI design
+- Data visualization
 
-```bash
-npm install
-```
-
-### Run in development
-
-```bash
-npm start
-```
-
-Then open http://localhost:3000 (or the port shown) in your browser.
-
----
-
-## Project Structure
-
-- `src/pages/` – main pages (Dashboard, Login)
-- `src/components/` – reusable UI components (charts, search, watchlist, etc.)
-- `src/services/stockAPI.js` – API access layer for stock data
+## 🔗 Author
+Suyog Samarth
